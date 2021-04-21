@@ -37,7 +37,7 @@ export function PlantSelect() {
   
   const [page, setPage] = useState(1);
   const [loadingMore, setLoadingMore] = useState(false);
-  const [loadedAll, setLoadedAll] = useState(false);
+ // const [loadedAll, setLoadedAll] = useState(false);
 
   function handleEnvironmentSelected(environment: string) {
     setEnvironmentSelected(environment);
@@ -97,8 +97,14 @@ export function PlantSelect() {
   }, [])
 
   useEffect(() => {
+    async function fetchPlants() {
+      const { data } = await api.get(`plants?_sort=name&_order=asc`);
+  
+      setPlants(data)
+      setFilteredPlants(data)
+    }
     fetchPlants();
-  }, [])
+  }, []);
 
   if (loading)
     return <Load />
