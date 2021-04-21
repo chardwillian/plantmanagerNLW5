@@ -97,12 +97,6 @@ export function PlantSelect() {
   }, [])
 
   useEffect(() => {
-    async function fetchPlants() {
-      const { data } = await api.get(`plants?_sort=name&_order=asc`);
-  
-      setPlants(data)
-      setFilteredPlants(data)
-    }
     fetchPlants();
   }, []);
 
