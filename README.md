@@ -1,4 +1,21 @@
 # PlantManager 
+
+## Telas inicias
+![nlw1](https://user-images.githubusercontent.com/69554100/116003060-d5959f80-a5d2-11eb-85b3-eb23b2116480.png)
+![nlw2](https://user-images.githubusercontent.com/69554100/116003087-f78f2200-a5d2-11eb-94c0-9cee639848b3.png)
+
+## Telas carregando api das plantas
+![nlw3](https://user-images.githubusercontent.com/69554100/116003099-feb63000-a5d2-11eb-9c86-e63a03993154.png)
+![nlw4](https://user-images.githubusercontent.com/69554100/116003104-070e6b00-a5d3-11eb-9945-a524075c3b7d.png)
+
+## Telas selecionando planta e agendando horário
+![nlw5s](https://user-images.githubusercontent.com/69554100/116003108-0a095b80-a5d3-11eb-89a7-9080a488cf97.png)
+![nlw6](https://user-images.githubusercontent.com/69554100/116003109-0b3a8880-a5d3-11eb-8701-70d19e2daa7f.png)
+
+## Telas removendo plantas que estavam agendadas
+![nlw7](https://user-images.githubusercontent.com/69554100/116003111-0c6bb580-a5d3-11eb-9136-4d4f5e246c95.png)
+![nlw8](https://user-images.githubusercontent.com/69554100/116003140-2efdce80-a5d3-11eb-8b78-70d36f438b46.png)
+
  
 🧪 Tecnologias
 * React Native
