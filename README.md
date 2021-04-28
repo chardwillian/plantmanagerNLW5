@@ -40,7 +40,7 @@ $ expo start
 💻 Projeto
 
 App para lembrar sempre de regar suas plantas 🌱
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por**[@Rocketseat](https://github.com/Rocketseat)** de 19 a 25 de abril de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** de 19 a 25 de abril de 2021.
 
 ## 🔖 Layout
 
